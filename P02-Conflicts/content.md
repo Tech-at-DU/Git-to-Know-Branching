@@ -1,7 +1,4 @@
----
-title: "Coping with Conflicts"
-slug: conflicts
----
+# Coping with Conflicts
 
 > **Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.**
 >
@@ -118,3 +115,5 @@ $ git push origin main
 ## Mega Merge Main
 
 **Way to level up your Git skills --- you're ready to handle branches, merges, and conflicts in your day-to-day projects!**
+
+If you want to take your learning to the next level, read this blog posts that details how [teams of software engineers collaborate on Github](https://nvie.com/posts/a-successful-git-branching-model/).
