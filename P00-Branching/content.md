@@ -1,7 +1,4 @@
----
-title: "Branching Out"
-slug: branching
----
+# Starting a New Branch 
 
 > **If you ever talk to a great programmer, you'll find they know their tools like an artist knows their paintbrushes.**
 >
@@ -173,3 +170,5 @@ Once your code is bug-free and release-ready, merge it to the `main` branch.
 # Next Step
 
 Ready for primetime? Proceed to the next page to learn how to merge your code into the `origin/main` branch on GitHub.
+
+## [--> Click Here: Merging to Main](https://github.com/Tech-at-DU/Git-to-Know-Branching/blob/master/P01-Merging/content.md)
