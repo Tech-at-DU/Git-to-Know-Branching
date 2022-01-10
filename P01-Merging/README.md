@@ -65,4 +65,4 @@ $ git push origin main
 
 We've practiced what to do in successful merge scenarios. Awesome! But what happens when things go awry? Follow the next step of the tutorial to practice how to deal with merge conflicts!
 
-## [--> Click here: Resolve Merge Conflicts](https://github.com/Tech-at-DU/Git-to-Know-Branching/blob/master/P02-Conflicts/content.md)
+## [--> Click here: Resolve Merge Conflicts](/P02-Conflicts/README.md)
