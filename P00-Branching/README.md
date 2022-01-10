@@ -171,4 +171,4 @@ Once your code is bug-free and release-ready, merge it to the `main` branch.
 
 Ready for primetime? Proceed to the next page to learn how to merge your code into the `origin/main` branch on GitHub.
 
-## [--> Click Here: Merging to Main](P01-Merging/README.md)
+## [--> Click Here: Merging to Main](/P01-Merging/README.md)
