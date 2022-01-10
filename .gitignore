@@ -1,3 +1,4 @@
 # Ignore OS X System files
 .DS_Store
 .wakatime-project
+node_modules/
